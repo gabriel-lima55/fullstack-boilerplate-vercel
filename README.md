@@ -1,4 +1,4 @@
-# Fullstack Boilerplate Vercel (Vite + Express)
+# Vercel FullStack Starter (Vite + Express)
 
 Reusable fullstack template built with React (Vite) and Express, optimized for serverless deployment on Vercel.
 
